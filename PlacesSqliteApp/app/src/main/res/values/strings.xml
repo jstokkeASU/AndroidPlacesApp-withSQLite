@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Places</string>
+    <string name="screen_title">Place</string>
+    <string name="location_name">Name: </string>
+    <string name="description">Description: </string>
+    <string name="category">Category: </string>
+    <string name="addressTitle">Address Title: </string>
+    <string name="address">Address: </string>
+    <string name="elevation">Elevation: </string>
+    <string name="latitude">Latitude: </string>
+    <string name="longitude">Longitude: </string>
+    <string name="name_value">Name</string>
+    <string name="button_string">Save Changes</string>
+    <string name="name_button">Continue</string>
+    <string name="spinner1_title">Select Place to View Details</string>
+    <string name="distance">Select Locations for Great Circle Distance</string>
+    <string name="button_distance">Get Distance</string>
+    <string name="heading_label">Heading</string>
+    <string name="distance_label">Distance</string>
+</resources>
